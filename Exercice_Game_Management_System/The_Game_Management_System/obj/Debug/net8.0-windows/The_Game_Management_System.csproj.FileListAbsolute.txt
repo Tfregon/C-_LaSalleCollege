@@ -1,0 +1,16 @@
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.Form1.resources
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.csproj.GenerateResource.cache
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.AssemblyInfoInputs.cache
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.AssemblyInfo.cs
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\bin\Debug\net8.0-windows\The_Game_Management_System.exe
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\bin\Debug\net8.0-windows\The_Game_Management_System.deps.json
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\bin\Debug\net8.0-windows\The_Game_Management_System.runtimeconfig.json
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\bin\Debug\net8.0-windows\The_Game_Management_System.dll
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\bin\Debug\net8.0-windows\The_Game_Management_System.pdb
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.dll
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\refint\The_Game_Management_System.dll
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.pdb
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\The_Game_Management_System.genruntimeconfig.cache
+C:\Users\tfreg\source\repos\The_Game_Management_System\The_Game_Management_System\obj\Debug\net8.0-windows\ref\The_Game_Management_System.dll

@@ -1,0 +1,33 @@
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Form1.resources
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Properties.Resources.resources
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe.config
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.pdb
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.pdb
+C:\Users\Thomas\source\repos\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.StudentsFormEdition.resources
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\bin\Debug\CollegeSystem.exe.config
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\bin\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\bin\Debug\CollegeSystem.pdb
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.Form1.resources
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.Properties.Resources.resources
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.StudentsFormEdition.resources
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\CollegeSystem - 3 Trial\CollegeSystem\obj\Debug\CollegeSystem.pdb
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe.config
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.pdb
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Form1.resources
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Properties.Resources.resources
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.StudentsFormEdition.resources
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.exe
+C:\Users\Thomas\source\repos\Multi-Tier_FinalProject_CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.pdb
